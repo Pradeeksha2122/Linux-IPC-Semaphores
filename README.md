@@ -85,7 +85,8 @@ $ ./sem.o
 
 $ ipcs
 
-![output](Screenshot%202026-05-13%20092613.png)
+<img width="1286" height="1223" alt="WhatsApp Image 2026-05-14 at 8 24 44 AM" src="https://github.com/user-attachments/assets/48fdf66e-869a-4d55-aa25-30d5b4209165" />
+
 
 
 # RESULT:
