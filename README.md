@@ -85,7 +85,9 @@ $ ./sem.o
 
 $ ipcs
 
-<img width="1286" height="1223" alt="WhatsApp Image 2026-05-14 at 8 24 44 AM" src="https://github.com/user-attachments/assets/48fdf66e-869a-4d55-aa25-30d5b4209165" />
+<img width="1600" height="769" alt="WhatsApp Image 2026-05-14 at 9 33 33 AM" src="https://github.com/user-attachments/assets/0ee35b61-d44d-4a48-960b-fe3a715ddf50" />
+<img width="690" height="466" alt="WhatsApp Image 2026-05-14 at 9 39 47 AM" src="https://github.com/user-attachments/assets/b7c084fd-87e4-4a20-b787-fc4b2496635f" />
+
 
 
 
